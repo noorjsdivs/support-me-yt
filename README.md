@@ -2,6 +2,10 @@
 
 This project is a web application built with modern web technologies. Follow the instructions below to set up, run, and deploy the project locally or on your preferred environment.
 
+## 🔗 Preview
+
+## ![Dashboard Preview](/public/preview_image.png)
+
 ## Live Demo
 
 You can view the live application at: https://support-me-three.vercel.app/
